@@ -26,6 +26,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
+  
+timezone: Europe/Berlin
+future: true
 
 mathjax: true
 
