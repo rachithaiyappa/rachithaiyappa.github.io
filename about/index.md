@@ -13,6 +13,4 @@ I've previously been an intern at the Inter-University Centre for Astronomy and 
 
 I like physics but I love tennis. Been playing the sport since I was as tall as the racquet! Simpler times!
 
-Actually, I like lots of other things. More on that to follow
-
-
+Actually, I like lots of other things. More on that to follow...
