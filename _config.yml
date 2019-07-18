@@ -8,6 +8,8 @@ url: https://rachithaiyappa.github.io
 
 # Jekyll configuration
 
+export JEKYLL_ENV=production
+
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -31,7 +33,7 @@ timezone: Europe/Berlin
 future: true
 
 disqus:
-  shortname: "rachithaiyappa"
+  shortname: "rachithaiyappa-github-io"
 
 mathjax: true
 
