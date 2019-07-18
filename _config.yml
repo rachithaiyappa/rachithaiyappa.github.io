@@ -30,6 +30,9 @@ kramdown:
 timezone: Europe/Berlin
 future: true
 
+disqus:
+  shortname: "rachithaiyappa-github-io"
+
 mathjax: true
 
 include: [".htaccess"]
