@@ -43,8 +43,7 @@
       </footer>
       <div class="entry-content">
         {{ content }}
-        {% if site.owner.disqus-shortname and page.comments or site.comments %}
-          <div id="disqus_thread"></div><!-- /#disqus_thread -->
+        {% if site.disqus.shortname %}
           {% include disqus-comments.html %}
         {% endif %}
       </div><!-- /.entry-content -->
