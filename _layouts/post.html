@@ -71,4 +71,6 @@
 </body>
 </html>
 
-{% include disqus.html %}
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
