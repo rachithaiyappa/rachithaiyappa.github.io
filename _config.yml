@@ -33,7 +33,7 @@ timezone: Europe/Berlin
 future: true
 
 disqus:
-  shortname: "rachithaiyappa-github-io"
+  shortname: rachithaiyappa-github-io
 
 mathjax: true
 
