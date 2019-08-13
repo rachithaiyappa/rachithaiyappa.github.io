@@ -9,5 +9,7 @@ title: Links
 ## Science
 [Prof. Michael Levin : Bioelectric Computation Outside the Nervous System, NeurIPS](https://www.youtube.com/watch?v=RjD1aLm4Thg)
 
+[Prof. Steven Strogatz : Science of Synchronisation](https://www.youtube.com/watch?v=aSNrKS-sCE0)
+
 ## Sport
 [A Tribute to Rafa of Clay :')](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
