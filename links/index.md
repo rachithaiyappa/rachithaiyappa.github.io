@@ -11,5 +11,7 @@ title: Links
 
 [Prof. Steven Strogatz : Science of Synchronisation](https://www.youtube.com/watch?v=aSNrKS-sCE0)
 
+[Big Bang : A misnomer!](http://galacticinteractions.scientopia.org/2009/08/21/big-bang-a-terrible-name-for-a-great-theory-from-the-archives/)
+
 ## Sport
 [A Tribute to Rafa of Clay :')](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
