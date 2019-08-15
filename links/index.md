@@ -6,6 +6,8 @@ title: Links
 ## General 
 [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 
+[Einstein and Tagore : On The Nature of Realilty](https://www.brainpickings.org/2012/04/27/when-einstein-met-tagore/)
+
 ## Science
 [Prof. Michael Levin : Bioelectric Computation Outside the Nervous System, NeurIPS](https://www.youtube.com/watch?v=RjD1aLm4Thg)
 
