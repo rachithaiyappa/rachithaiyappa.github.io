@@ -19,6 +19,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+plugins:
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM
