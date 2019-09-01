@@ -15,8 +15,8 @@ title: Links
 
 [Big Bang : A misnomer!](http://galacticinteractions.scientopia.org/2009/08/21/big-bang-a-terrible-name-for-a-great-theory-from-the-archives/)
 
-Two takes on Scale Free Networks : [Clauset-Quanta](https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/) and 
-[Scale Free Netwroks : Barabási](https://www.barabasilab.com/post/love-is-all-you-need)
+Two takes on Scale Free Networks : [Clauset-Quanta Magazine](https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/) and 
+[Barabási-Blog](https://www.barabasilab.com/post/love-is-all-you-need)
 
 
 ## Sport
