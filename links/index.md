@@ -15,5 +15,9 @@ title: Links
 
 [Big Bang : A misnomer!](http://galacticinteractions.scientopia.org/2009/08/21/big-bang-a-terrible-name-for-a-great-theory-from-the-archives/)
 
+[Scale Free Networks : Clauset-Quanta](https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/)
+[Scale Free Netwroks : Barabási](https://www.barabasilab.com/post/love-is-all-you-need)
+
+
 ## Sport
 [A Tribute to Rafa of Clay :')](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
