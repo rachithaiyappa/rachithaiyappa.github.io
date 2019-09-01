@@ -6,9 +6,9 @@ tags: Politics Citizenship
 share : true
 comments : true
 ---
-
-
-
+  
+  
+  
 India is many things. It is and will always be my home. 
 
 Today, Assam's final Register of Citizens (NRC) was published. Long story short, of the 3,30,27,661 who applied to be included in the document, 3,11,21,004 found their names published in the first draft.
