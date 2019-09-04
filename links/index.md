@@ -18,7 +18,7 @@ title: Links
 Two takes on Scale Free Networks : [Clauset-Quanta Magazine](https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/) and 
 [Barabási-Blog](https://www.barabasilab.com/post/love-is-all-you-need)
 
-[What statistics can and cannot tell us:](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
+[What statistics can and cannot tell us](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
 
 
 ## Sport
