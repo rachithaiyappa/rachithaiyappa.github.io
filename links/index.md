@@ -18,6 +18,8 @@ title: Links
 Two takes on Scale Free Networks : [Clauset-Quanta Magazine](https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/) and 
 [Barabási-Blog](https://www.barabasilab.com/post/love-is-all-you-need)
 
+[What statistics can and cannot tell us:](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
+
 
 ## Sport
 [A Tribute to Rafa of Clay :')](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
