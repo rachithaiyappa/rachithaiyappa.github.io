@@ -12,6 +12,6 @@ Not all of the students enrolled in this course will major in conventional domai
 The challenge then becomes to covey what can science (as we know it) do to better an individual, not just academically, but as a person! 
 Rather than explcity defining the strcuture or the essence of this course, some interesting discussion 
 
-PS : This course is in no way Physics course. Rather, it aims to provide with very fundamental like an intituion for numbers (W
+PS : This is in no way a Physics course. Rather, it deals with fundamentals. An intuition for numbers, for estimates; the efficacy of a graph, a function; the universality of hypothesis-data-iterations; the role of bias, of being in a bubble, of having your thoughts influenced by the newspapers you read, the social meida you; use are prominent in every day life. Taking a plethora of examples from current affairs a linking this to fundamentals of science, this course aims to make one not just learned collective, but aware as an individual. 
 
 ## Week 1
