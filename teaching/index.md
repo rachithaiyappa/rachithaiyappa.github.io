@@ -15,11 +15,10 @@ Rather than explcity defining the strcuture or the essence of this course, some 
 PS : This is in no way a Physics course. Rather, it deals with fundamentals. An intuition for numbers, for estimates; the efficacy of a graph, a function; the universality of hypothesis-data-iterations; the role of bias, of being in a bubble, of having your thoughts influenced by the newspapers you read, the social meida you; use are prominent in every day life. Taking a plethora of examples from current affairs a linking this to fundamentals of science, this course aims to make one not just learned collective, but aware as an individual. 
 
 ## Week 1
+
 Context : Prof. Menon showed this in class after posing an interesting question of how one could differntiate two people on either side of the Wagah border (the border between India and Pakistan at near Amritsar) if the border did not exist. Long story short, it hinted how genetically similar/different individuals of the human race can be. 
 
-<img src="https://github.com/rachithaiyappa/rachithaiyappa.github.io/tree/master/images/Sceptic.png">
-
-
+<img src="/images/Sceptic.png" align="right" width="250" >
 
 A student in class voiced his discomfort with the spelling of `sceptic` and opined that it should be `skeptic` instead. Ofcourse murmurs from the rest of the class leaned to the conventional argument of British English versus American English. 
 
