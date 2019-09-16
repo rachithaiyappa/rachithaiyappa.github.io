@@ -27,40 +27,40 @@ I saw an opportunity in this to hint at the scientific methodology (hypothesis-d
 
 DS : I acknowledged their reponse pertaining to the differences in British versus American English. But to convey my thought, we spoke about two examples : 
 
-Case 1 : skeptic vs sceptic : I asked them to go back in time to when a printing press did not exist and stamps containing individual letters might have been used to make documents. Trying not to get myself distracted into power laws in Physics, here is how it went :
+Case 1: skeptic vs sceptic : I asked them to go back in time to when a printing press did not exist and stamps containing individual letters might have been used to make documents. Trying not to get myself distracted into power laws in Physics, here is how it went :
 
 ~~~~
-Rachith : Suppose I pick out two letters from a book written in English, say `t` and `z`. 
+Rachith: Suppose I pick out two letters from a book written in English, say `t` and `z`. 
 Which one do you think will be used more frequently in the book?
 
 The class collectively answers `t`
 
-Rachith : Given that you've told me that `t` is more frequently used, 
+Rachith: Given that you've told me that `t` is more frequently used, 
 which stamp do y'all think is more prone to wear and tear? Is it `t` or `z`
 
 The class collectively answers `t`
 
->Rachith : Similarly, if I were to tell you the letter `c` is/was more frequently used than the letter `k`
+Rachith: Similarly, if I were to tell you the letter `c` is/was more frequently used than the letter `k`
 and hence former's stamp wears out faster than the latter's, 
 would it not make sense for me to replace `c` with `k` if 
 it does not lead to a change in the pronunciation of the word?
 
->Class : :open_mouth:
+Class:  :open_mouth:
 ~~~~
 
-Case 2 : colour vs color
+Case 2: colour vs color
 
 ~~~~
-Rachith : Let us stick to the time when the printing press did not exist and we relied on stamps. 
+Rachith: Let us stick to the time when the printing press did not exist and we relied on stamps. 
 If I was to get a document 'printed', most likely  I would be charged a fee based on the number of letters, 
 in other words, the number of stamps. Agree?
 
-Class : Seems reasonable
+Class: Seems reasonable
 
 Rachith : So would it not make sense for me to shorten my words (by reducing the number of letters in them), 
 without changing its pronounciation whenever possible?
 
-Class : :open_mouth:
+Class: :open_mouth:
 ~~~~
 
 Take away : Acknowledge that countless hypotheses can seem to explain a certain phenomena. Realise what it means to hypothesize. Question how would one go about proving or disproving a hypothesis. Can a hypothesis always be proved/disproved?
