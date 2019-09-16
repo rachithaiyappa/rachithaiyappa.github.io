@@ -16,7 +16,10 @@ PS : This is in no way a Physics course. Rather, it deals with fundamentals. An 
 
 ## Week 1
 Context : Prof. Menon showed this in class after posing an interesting question of how one could differntiate two people on either side of the Wagah border (the border between India and Pakistan at near Amritsar) if the border did not exist. Long story short, it hinted how genetically similar/different individuals of the human race can be. 
-![](/images/sceptic.png)
+
+<img src="https://github.com/rachithaiyappa/rachithaiyappa.github.io/tree/master/images/Sceptic.png">
+
+
 
 A student in class voiced his discomfort with the spelling of `sceptic` and opined that it should be `skeptic` instead. Ofcourse murmurs from the rest of the class leaned to the conventional argument of British English versus American English. 
 
