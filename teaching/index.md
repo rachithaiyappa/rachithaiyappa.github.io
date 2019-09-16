@@ -10,11 +10,12 @@ The Physics Department, for the first time since its inception three years ago (
 Not all of the students enrolled in this course will major in conventional domains as Phyics, Chemistry Biology, Mathematics or Computer Science. A major fraction of these students will go on to major in a variety of dsisciples such as English Literature, Politcal Science, Psychology, Economics, Finace, History, Anthropology etc. 
 
 The challenge then becomes to convey what can science (as we know it) do to better an individual, not just academically, but as a person! In doing so we make it a point not to impose our opinion . Instead, they are offered a ton of information and resources to come up with their own opinion!
-Rather than explcity defining the strcuture or the essence of this course, some interesting discussion 
+Rather than explcity defining the strcuture or the essence of this course, I suggest you read along and frame your own idea of what principles of science mean to you!
+It is a herculean task for me to write about what happens in roughly 6 hours of class each week and I do not intend to do that. Instead, here are certain discussions which I vividly rememeber from each week and in subtle ways pride myself for initiating such thought among my new friends!
 
 PS : This is in no way a Physics course. Rather, it deals with fundamentals. An intuition for numbers, for estimates; the efficacy of a graph, a function; the universality of hypothesis-data-iterations; the role of bias, of being in a bubble, of having your thoughts influenced by the newspapers you read, the social meida you; use are prominent in every day life. Taking a plethora of examples from current affairs a linking this to fundamentals of science, this course aims to make one not just learned collective, but aware as an individual. 
 
-## Week 1
+## Week 1 : The scientific method, without giving it a name!
 
 Context : Prof. Menon showed this in class after posing an interesting question of how one could differntiate two people on either side of the Wagah border (the border between India and Pakistan at near Amritsar) if the border did not exist. Long story short, it hinted how genetically similar/different individuals of the human race can be. 
 
@@ -24,7 +25,30 @@ A student in class voiced his discomfort with the spelling of `sceptic` and opin
 
 I saw an opportunity in this to hint at the scientific methodology (hypothesis-data-iteration) :
 
-DS : We spoke about two examples : 
-Case 1 : skeptic vs sceptic 
+DS : I acknowledged their reponse pertaining to the differences in British versus American English. But to convey my thought, we spoke about two examples : 
+
+Case 1 : skeptic vs sceptic : I asked them to go back in time to when a printing press did not exist and stamps containing individual letters might have been used to make documents. Trying not to get myself distracted into power laws in Physics, here is how it went :
+
+>Rachith : Suppose I pick out two letters from a book written in English, say `t` and `z`. Which one do you think will be used more frequently in the book?
+
+>The class collectively answers `t`
+
+>Rachith : Given that you've told me that `t` is more frequently used, which stamp do y'all think is more prone to wear and tear? Is it `t` or `z`
+
+>The class collectively answers `t`
+
+>Rachith : Similarly, if I were to tell you the letter `c` is/was more frequently used than the letter `k` and hence former's stamp wears out faster than the latter's, would it not make sense for me to replace `c` with `k` if it does not lead to a change in the pronunciation of the word?
+
+>Class : :open_mouth:
 
 Case 2 : colour vs color
+
+>Rachith : Let us stick to the time when the printing press did not exist and we relied on stamps. If I was to get a document 'printed', most likely  I would be charged a fee based on the number of letters, in other words, the number of stamps. Agree?
+
+>Class : Seems reasonable
+
+>Rachith : So would it not make sense for me to shorten my words (by reducing the number of letters in them), without changing its pronounciation whenever possible?
+
+>Class : :open_mouth:
+
+Take away : Acknowledge that countless hypotheses can seem to explain a certain phenomena. Realise what it means to hypothesize. Question how would one go about proving or disproving a hypothesis. Can a hypothesis always be proved/disproved?
