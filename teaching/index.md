@@ -45,7 +45,7 @@ and hence former's stamp wears out faster than the latter's,
 would it not make sense for me to replace `c` with `k` if 
 it does not lead to a change in the pronunciation of the word?
 
-Class:  :open_mouth:
+Class:  😮
 ~~~~
 
 Case 2: colour vs color
@@ -60,7 +60,44 @@ Class: Seems reasonable
 Rachith : So would it not make sense for me to shorten my words (by reducing the number of letters in them), 
 without changing its pronounciation whenever possible?
 
-Class: :open_mouth:
+Class: 😮
 ~~~~
 
 Take away : Acknowledge that countless hypotheses can seem to explain a certain phenomena. Realise what it means to hypothesize. Question how would one go about proving or disproving a hypothesis. Can a hypothesis always be proved/disproved?
+
+## Week 2 : What do you believe in?
+
+This week was mostly spent in giving examples and counter examples showing the subjectivity and objectivity of human thought.
+
+I posed a very general question to the class. If I recollect correctly, thumping my clenched fist in the air to emphasise the gravity of the question hitting them, I asked "What do you guys belive in or look for when it comes to making decisions"
+
+Not surprisingly I heard a variety of responses some of which stuck with me....
+
+Response 1 : Logic
+
+Inevitably I brought in the man himself, Richard Feynman.
+<img src="/images/feynman_experiment.jpg" align="right" width="300" height="200" >
+I tried giving the class example of aether, a medium once thought to occupy free space which, to boil it down, was once considered the answer to the question "The speed of light is ... with respect to what/who?". As logical as this hypothesis of aether sounded, it was proved to be wrong by the Michelson–Morley experiment. 
+At this point, if I could read the minds of the diverse set students in the class, I'm sure they would have been thinking, "ugh! I chose not to do science and here is this dude boring me with things I will never care about".
+I resorted to a very crude logical fallacy :
+
+~~~~
+Rachith: If someone was to teach his/her the concept of addition to his/her friend who believes in logic in the following way : 
+
+Someone : 2 + 2 = 4
+          2 * 2 = 4
+          3 + 3 = 6
+          3 * 3 = ?
+What would the friend respond to this?
+
+Class: 😮
+
+Rachith : What sounds logical to us, may not sound logical to our neighbours or to the universe. 
+In other words, the universe does not function according to our logic. 
+That is what I find the most beautiful...how oblivious 'she' can to our existence 
+~~~~
+
+Response 2 : Majority Opinion
+
+I was extremely tempted to disucss my master thesis about information cascades in adaptive network and how things can get really messed up leading to fake news, rumors etc.
+
