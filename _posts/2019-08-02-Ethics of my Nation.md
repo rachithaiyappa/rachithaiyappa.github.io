@@ -29,6 +29,6 @@ I often pride myself being a part of and a contributor to the Indian Jugaad. It 
 Of course, the fragile situation of why illegal immigrants exist in the first place is a conversation for some other time. 
 I am not stating that India needs to stop working to fix such a situation. Instead, I would not want India to forget what we stand for while dealing with such a fragile situtation. 
 
-The status quo seems to suggest today's India is not the India my forefarthers imagined it.
+The status quo seems to suggest today's India is not the India my forefarthers envisioned.
 
-India is many things. It is and will always be my home through. For someone else, the definition of home changed overnight.
+India is many things. It is and will always be my home. For someone else, the definition of home changed overnight.
