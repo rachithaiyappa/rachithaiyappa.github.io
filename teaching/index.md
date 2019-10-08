@@ -106,7 +106,7 @@ I was extremely tempted to discuss my master thesis about information cascades i
 Being a Twitter buff, I came across this tweet talking about acknowledging and tackling climate change being a global responsibility. I have always felt disgust and unrest looking at those, including a few of my mates, not being responsible enough to switch off the lights and fans/coolers of a room before when step out of it. 
 For me, not doing so renders whatever qualification a person has, moot.
 
-<img src="/images/Twitter_climate_change.png" align="right" width="250" >
+<img src="/images/Twitter_climate_change.png" align="right" width="500" >
 
 I spoke to the class about the need for us to pay attention to subtleties and trivialities of everyday life. I suggested against patronizing others around them. As an example, it is not solely the responsibility of guards to go around turning off the power in empty rooms. It is each one's responsibility. 
 
