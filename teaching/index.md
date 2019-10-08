@@ -118,6 +118,9 @@ Having a great set of peers and giving each one and themselves time is certainly
 
 
 ## Week 4: Quantiative (Panic attack!)
-This week, I also taught them about estimates and order of magnitudes. What does it mean to say something is 10 times bigger or smaller than something else. I was trying to give them a picture
+This week, we discussed about estimates and order of magnitudes. What does it mean to say something is 10 times bigger or smaller than something else. I was trying to give them a picture of what simple estimates can do for us. During my time in Bangalore, Dr. Vishu had showed us a clip (unable to find that now) when the lot of us were discussing why road widening, is a bad idea in order to solve the traffic crisis in Bangalore. Simply put, in road widening is just a temporary solution which will only invite the roads to get more congested with more traffic inflow as time progresses. Stating this as an example, I reached a point where we discussed the need for more public transport in India, especially in the Indian metropolitan cities. This went back to the discussion of last week about climate change and also connected it to an estimate problem best described by the following gif.
 
 ![Alt Text](https://static.independent.co.uk/s3fs-public/indy100/bkxvOI93HVe/29187-m4oqnr.gif?fbclid=IwAR0xOW_sArtmn0tUdZwoHXDEbHFDvbYRQwNg9fRICKOIY8-5zlLz-8vcPg0)
+
+
+Additionally, the discussion about logarithms and the need for it came. 
