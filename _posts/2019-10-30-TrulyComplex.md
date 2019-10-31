@@ -53,6 +53,6 @@ Mates, today I realized a lot of things like every day. Among them, I was shown 
 This gave rise to a thought in me:
 
 _We have, with the predictive power of natural sciences, sent man to the moon and man-made objects beyond our imaginations. 
-Yet, back home, on Earth, we struggle to understand ourselves as a society. Does that mean if and when we do, understanding ourselves as would be the greatest feat of humanity? I've always thought space exploration is the most humbling experience of humankind. Maybe the day we understand ourselves as humans and as a society might top that._
+Yet, back home, on Earth, we struggle to understand ourselves as a society. Does that mean if and when we do, understanding ourselves would be the greatest feat of humanity? I've always thought space exploration is the most humbling experience of humankind. Maybe the day we understand ourselves as humans and as a society might top that._
 
-It truly was a talk I will cherish for life. You truly are one of a kind DAS 😃
+It truly was a talk I will cherish for life. You truly are one of a kind, DAS 😃
