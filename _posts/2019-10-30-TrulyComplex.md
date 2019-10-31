@@ -36,13 +36,16 @@ But all this was not the point of this article.
 
 For me it boils down to his response to a question I asked him at the end of his talk:
 ~~~
-RA: Could the state of the current economy be predicted back when you say it all started?
+RA: Could the state of the current economy be predicted back when you say it 
+all started?
 
 AS: No. Anyone who says it could have is a liar
 
-RA: Then what guarantees that your current suggestion and reforms will have a cascading effect in the positive/negative direction?
+RA: Then what guarantees that your current suggestion and reforms will 
+have a cascading effect in the positive/negative direction?
 
-AS: That is a reason why reform is always debated upon cause we cannot predict exactly 
+AS: That is a reason why reform is always debated upon cause we 
+cannot predict exactly 
 ~~~
 
 Mates, today I realized a lot of things like every day. Among them, I was shown that when applied to real-world systems, economics loses its predictive power (if it had any, to begin with).
