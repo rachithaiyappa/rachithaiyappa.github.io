@@ -130,9 +130,8 @@ The lectures this week introduced the students into the functions and graphs. Th
 
 The need for graphs was a relatively easier thing to explain. With the conventional statement that graphs are the easiest way to (mis)represent data, all I did was show a the youth of India, this particular picture (along with a 'Trigger Warning' ofcourse)
 
-<p align="center">
-  <img src="/images/BJP.jpeg" width="500" >
-<\p>
+<img src="/images/BJP.jpeg" align="right" width="250" >
+
 
 Sometime during the last year, the rising petrol prices in India found itself on the front page of every news paper blaming the BJP government for not imposing a check on this. So, the party, released this 'graph' on their official Twitter page, with an intention...frankly I don't understand their intentions anymore. Well, it backfired. Misrepresentation of data and fake news is all around us today and as a golbal citizens, we need to first identify them before we can do something about them. The reactions of the class, aligned with my pre-conceived notions. Intial stun leading to disgust followed with sighs. With an aim to further diversify their thought, I asked them to think of the millions in the country who are, unfortunately, not priveleged to have the knowledge to see what is wrong with the social networks they are all part of. India is such a country in which a person can afford a telephone connection more easily than he/she can afford food and other basic amenties. 
 
