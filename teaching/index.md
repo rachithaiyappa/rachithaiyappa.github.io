@@ -122,5 +122,31 @@ This week, we discussed about estimates and order of magnitudes. What does it me
 
 ![Alt Text](https://static.independent.co.uk/s3fs-public/indy100/bkxvOI93HVe/29187-m4oqnr.gif?fbclid=IwAR0xOW_sArtmn0tUdZwoHXDEbHFDvbYRQwNg9fRICKOIY8-5zlLz-8vcPg0)
 
+This gif conveys a ton of information. "How much more space is availble on the road if everyone were to use the public transport?" is one estimate question which I posed to the class. 
 
-Additionally, the discussion about logarithms and the need for it came. 
+## Week 5: Our government
+
+The lectures this week introduced the students into the functions and graphs. The question 'why?' naturally arose. 
+
+The need for graphs was a relatively easier thing to explain. With the conventional statement that graphs are the easiest way to (mis)represent data, all I did was show a the youth of India, this particular picture (along with a 'Trigger Warning' ofcourse)
+
+<img src="/images/BJP.jpeg" width="500" >
+
+Sometime during the last year, the rising petrol prices in India found itself on the front page of every news paper blaming the BJP government for not imposing a check on this. So, the party, released this 'graph' on their official Twitter page, with an intention...frankly I don't understand their intentions anymore. Well, it backfired. Misrepresentation of data and fake news is all around us today and as a golbal citizens, we need to first identify them before we can do something about them. The reactions of the class, aligned with my pre-conceived notions. Intial stun leading to disgust followed with sighs. With an aim to further diversify their thought, I asked them to think of the millions in the country who are, unfortunately, not priveleged to have the knowledge to see what is wrong with the social networks they are all part of. India is such a country in which a person can afford a telephone connection more easily than he/she can afford food and other basic amenties. 
+
+As an aside, the situation is so bad that the campaingners during the election season promise the subaltern access to food in excahnge for votes. Yes, apparently, to our campaigners, food, water, clearn air to breathe are something which is not the fundamental right of each citizen. Sigh.
+
+With the class understanding the importance of graphs, I briefly gave them some motivation about the need to predict the future given today's data. With this unconventional approach (graphs ->functions rather than functions -> graphs) I stepped into scales.
+
+## Week 6: Slipping in some power laws (I am a student of Physics after all!)
+
+Upon further discussion, it soon became evident to the class that graph of functions like x<sup>2</sup>, x<sup>-2</sup>, 2<sup>x</sup>, 2<sup>-x</sup> etc. all had a lot of cluttered points on a linear scale.
+I revisted the 'why do we need logs?' question which most of them had posed during the lecture on logarithms a few weeks ago and asked them to prepare for some mathematical magic. 
+Long story short, in order to show one of the many uses of logs, I plotted (and taught them to plot) these functions of the log-log scale of a log-linear scale. The simplicty of straight lines is soothing to any audience 😌
+
+Ofcourse I could not stop there. Ofcourse I had to show them this. Dr. Mark Newman, thank you!
+
+<img src="/images/Power_Law_graph.png" width="500" >
+<img src="/images/Power_law_description.png" width="500" >
+
+Class: 😯
