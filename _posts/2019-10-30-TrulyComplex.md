@@ -7,7 +7,9 @@ share: true
 comments: true
 ---
 
-Today, I had the wonderful opportunity to attend Dr. Arvind Subramaniam's (DAS) talk at Ashoka University. If you are an economics student, I'd be what Ricky Gervais was to the people in the movie 'The Invention of Lying'. Well certainly up until the point where he... (let me now ruin it for you)
+Today, I had the wonderful opportunity to attend Dr. Arvind Subramaniam's (DAS) talk at Ashoka University. 
+
+If you are an economics student, I'd be what Ricky Gervais was to the people in the movie 'The Invention of Lying'. Well certainly up until the point where he... (let me now ruin it for you)
 But believe me, Dr. Subramaniam is a celebrity. He (if I may demote him to the pronoun used for us mortals) was the Chief Economic Advisor to the Government of India between 2014 to 2018. 
 
 When it comes to academia, I've had an unjustified liking to those who write using a fountain pen and to those who do not use a microphone in a lecture theatre. It is my academic equivalent of 'love at first sight' In hindsight, I think this stems from watching my mother, who is a wonderful teacher by profession. I'm unsure of the former but Dr. Subramaniam is indeed a great orator. Even if Dr. Subramaniam did not know a word of economics (believe me it is quite the opposite), I still believe that my Indian government would still want him on board given how great a communicator he is. This being my first economics talk (at least the first one I will definitely remember) was quite animated which I certainly believe was a conscious doing by DAS. Adding to the ton of economic jargons which, surprisingly was not totally out of my reach, the discussion by the professionals at the end of the talk involved a lot of muscle memory statistics, numbers, and more jargon! DAS was as energetic throughout with sentences like "I'll fail your teachers before I fail you", "What do you do when a constant can change?", "Surprise, Surprise Prof.X", rightly predicting Prof.X will have an issue with what he (DAS) was about to say.
