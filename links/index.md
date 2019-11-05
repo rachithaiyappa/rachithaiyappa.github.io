@@ -24,6 +24,8 @@ Two takes on Scale Free Networks: [Clauset-Quanta Magazine](https://www.quantama
 
 [John Beegs: Criticality Hypothesis for Neuronal Avalanches](https://youtu.be/quwJKgzyNaI)
 
+[Real-time flu tracking](https://www.nature.com/articles/d41586-019-02755-6)
+
 
 ## Sport
 [A Tribute to Rafa of Clay 🥺](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
