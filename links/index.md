@@ -22,9 +22,11 @@ Two takes on Scale Free Networks: [Clauset-Quanta Magazine](https://www.quantama
 
 [Memory in the Flesh](https://www.theverge.com/2015/3/18/8225321/memory-research-flatworm-cannibalism-james-mcconnell-michael-levin)
 
-[John Beegs: Criticality Hypothesis for Neuronal Avalanches](https://youtu.be/quwJKgzyNaI)
+[John Beggs: Criticality Hypothesis for Neuronal Avalanches](https://youtu.be/quwJKgzyNaI)
 
 [Real-time flu tracking](https://www.nature.com/articles/d41586-019-02755-6)
+
+[Patterns, Networks and Synchronisation](https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/)
 
 
 ## Sport
