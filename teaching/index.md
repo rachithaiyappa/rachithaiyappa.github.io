@@ -11,7 +11,7 @@ Not all of the students enrolled in this course will major in conventional domai
 
 The challenge then becomes to convey what can science (as we know it) do to better an individual, not just academically, but as a person! In doing so we make it a point not to impose our opinion. Instead, they are offered a ton of information and resources to come up with their own opinion!
 Rather than explicitly defining the structure or the essence of this course, I suggest you read along and frame your own idea of what principles of science mean to you!
-It is a herculean task for me to write about what happens in roughly 6 hours of class each week and I do not intend to do that. Instead, here are certain discussions which I vividly remember from each week and in subtle ways pride myself for initiating such thought among my new friends!
+It is a herculean task for me to write about what happens in roughly 6 hours of class each week and I do not intend to do that. Instead, here are certain discussions which I vividly remember (apart from conventional problem solving/lecture revision discussions) from each week and in subtle ways pride myself for initiating such thought among my new friends!
 
 PS : This is in no way a Physics course. Rather, it deals with fundamentals. An intuition for numbers, for estimates; the efficacy of a graph, a function; the universality of hypothesis-data-iterations; the role of bias, of being in a bubble, of having your thoughts influenced by the newspapers you read, the social media you; use is prominent in everyday life. Taking a plethora of examples from current affairs a linking this to fundamentals of science, this course aims to make one not just learned collective, but aware as an individual.
 
@@ -168,10 +168,8 @@ How come we never had a midsemester break at BITS 😯
 Fresh off the midsemester break, Dr. Menon touched upon combinatorics to with an aim to head towards random walks. He also posed a problem of unlocking a four-digit lock (2<sup>4</sup> possibilities).  I was thrilled. Going back to Fermi estimates from week 4, I asked the class to estimate how long it will take for them to unlock such a lock if one does it sequentially, randomly, or any other way they can think of. This also seemed like a nice place to talk about the existence/power of randomized processes/methods to tackle problems. Dr. Menon also had introduced the class to Randomised Clinical Trials (RCT's)
 I stated an example of trying to unlock a 3 digit lock for which one has forgotten the right combination. From childhood experiences, some students of the class recalled holding the unlock clip and randomly flipping through the digits and being able to unlock it in a reasonable amount of it. I reminded them that these are average estimates (if the code is 001...ofcourse sequential would be a better choice than random attempts) and additionally encouraged them to think if this is the case if it was a 10 or a 100 digit lock. 
 
-Making it simpler, superficially, I got the class to agree that a 10 digit lock is harder to pick than a 3 digit lock.
-
-See where I'm headed?
-
+Making it simpler, superficially, I got the class to agree that a 10 digit lock is harder to pick than a 3 digit lock.  
+See where I'm headed?  
 In other words, cracking an m digit code takes longer than an n digit code when m>n. Similarly, factorizing an m digit number is harder than an n digit number when m>n. This lays the foundation for classical cryptography. A time-varying large number (encryption) asking to be factoried (decryption). 
 
 Naturally, we as humans do not settle at this (especially when there's money involved 😛) and think of ways to tackle this. Thats what a quantum computer (Shor's algorithm) is capable of achieving. And then there's post-quantum cryptography. Thinking of a dear friend, I left the class at this!
@@ -181,4 +179,5 @@ Naturally, we as humans do not settle at this (especially when there's money inv
 It was quite interesting to learn about Dr. Rosalind Franklin and Alfred Russel Wallace, names which are often missed in crediting the discovering of DNA and evolution respectively. 
 Showing some cool examples of evolution, collective behaviour of birds, fish, ants and humans naturally crept in. I motivated few mechanisms (observing nearest neighbours, pheromones) and reasons (reduction of cognitive load, ecaping predators) why evolution has given birth to collective behaviour. 
 
-![Alt Text](http://i.imgur.com/DSjVNKv.gifv)
+![Alt Text](https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif)
+<img src="https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif" width="40" height="40" />
