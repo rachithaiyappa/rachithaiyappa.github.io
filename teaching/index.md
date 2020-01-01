@@ -180,4 +180,4 @@ It was quite interesting to learn about Dr. Rosalind Franklin and Alfred Russel 
 Showing some cool examples of evolution, collective behaviour of birds, fish, ants and humans naturally crept in. I motivated few mechanisms (observing nearest neighbours, pheromones) and reasons (reduction of cognitive load, ecaping predators) why evolution has given birth to collective behaviour. 
 
 ![Alt Text](https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif)
-<img src="https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif" width="40" height="40" />
+![Alt Text](https://media.giphy.com/media/D8PobCFg1w6Yg/giphy.gif)
