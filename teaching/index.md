@@ -122,7 +122,7 @@ This week, we discussed about estimates and order of magnitudes. What does it me
 
 ![Alt Text](https://static.independent.co.uk/s3fs-public/indy100/bkxvOI93HVe/29187-m4oqnr.gif?fbclid=IwAR0xOW_sArtmn0tUdZwoHXDEbHFDvbYRQwNg9fRICKOIY8-5zlLz-8vcPg0)
 
-This gif conveys a ton of information. "How much more space is availble on the road if everyone were to use the public transport?" is one estimate question which I posed to the class. 
+This gif conveys a ton of information. "How much more space is availble on the road if everyone were to use the public transport?" is one estimate question (we taught them Fermi estimates!) which I posed to the class. 
 
 ## Week 5: Our government
 
@@ -153,3 +153,32 @@ Ofcourse I could not stop there. Ofcourse I had to show them this. Dr. Mark Newm
 </p>
 
 Class: 😯
+
+## Week 7 and 8: Midsemester exam and break
+
+Conducted the midsemester exam.
+How come we never had a midsemester break at BITS 😯
+
+## Week 9 and 8: Midsemester break
+
+How come we never had a midsemester break at BITS 😯
+
+## Week 10: Quantum Computing
+
+Fresh off the midsemester break, Dr. Menon touched upon combinatorics to with an aim to head towards random walks. He also posed a problem of unlocking a four-digit lock (2<sup>4</sup> possibilities).  I was thrilled. Going back to Fermi estimates from week 4, I asked the class to estimate how long it will take for them to unlock such a lock if one does it sequentially, randomly, or any other way they can think of. This also seemed like a nice place to talk about the existence/power of randomized processes/methods to tackle problems. Dr. Menon also had introduced the class to Randomised Clinical Trials (RCT's)
+I stated an example of trying to unlock a 3 digit lock for which one has forgotten the right combination. From childhood experiences, some students of the class recalled holding the unlock clip and randomly flipping through the digits and being able to unlock it in a reasonable amount of it. I reminded them that these are average estimates (if the code is 001...ofcourse sequential would be a better choice than random attempts) and additionally encouraged them to think if this is the case if it was a 10 or a 100 digit lock. 
+
+Making it simpler, superficially, I got the class to agree that a 10 digit lock is harder to pick than a 3 digit lock.
+
+See where I'm headed?
+
+In other words, cracking an m digit code takes longer than an n digit code when m>n. Similarly, factorizing an m digit number is harder than an n digit number when m>n. This lays the foundation for classical cryptography. A time-varying large number (encryption) asking to be factoried (decryption). 
+
+Naturally, we as humans do not settle at this (especially when there's money involved 😛) and think of ways to tackle this. Thats what a quantum computer (Shor's algorithm) is capable of achieving. And then there's post-quantum cryptography. Thinking of a dear friend, I left the class at this!
+
+## Week 11: Evolution...collective behaviour
+
+It was quite interesting to learn about Dr. Rosalind Franklin and Alfred Russel Wallace, names which are often missed in crediting the discovering of DNA and evolution respectively. 
+Showing some cool examples of evolution, collective behaviour of birds, fish, ants and humans naturally crept in. I motivated few mechanisms (observing nearest neighbours, pheromones) and reasons (reduction of cognitive load, ecaping predators) why evolution has given birth to collective behaviour. 
+
+![Alt Text](http://i.imgur.com/DSjVNKv.gifv)
