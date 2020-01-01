@@ -10,7 +10,7 @@ url: https://rachithaiyappa.github.io
 
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:    GFM
 highlighter: rouge
 sass:
   sass_dir: _sass
