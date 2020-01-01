@@ -179,5 +179,5 @@ Naturally, we as humans do not settle at this (especially when there's money inv
 It was quite interesting to learn about Dr. Rosalind Franklin and Alfred Russel Wallace, names which are often missed in crediting the discovering of DNA and evolution respectively. 
 Showing some cool examples of evolution, collective behaviour of birds, fish, ants and humans naturally crept in. I motivated few mechanisms (observing nearest neighbours, pheromones) and reasons (reduction of cognitive load, ecaping predators) why evolution has given birth to collective behaviour. 
 
-<img src="https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif" align="left" width="300" height="300" >
+<img src="https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif" align="left" width="300" height="450" >
 <img src="https://media.giphy.com/media/D8PobCFg1w6Yg/giphy.gif" align="right" width="300" height="300" >
