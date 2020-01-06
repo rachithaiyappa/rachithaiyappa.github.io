@@ -154,13 +154,28 @@ Ofcourse I could not stop there. Ofcourse I had to show them this. Dr. Mark Newm
 
 Class: 😯
 
-## Week 7 and 8: Midsemester exam and break
+
+## Week 7: Elements
+
+The lectures this week spanned from Democritus to the modern periodic table while touching upon various ancient philosophical consderations of the world around us.  
+During the accompanying discussion session, I showed this particular image to the class inviting wild guesses to what this might be. Additionally, I hinted that this story had been making rounds in the news quite recently.
+
+<p align="center">
+  <img src="/images/sent_ship.jpg" width="400" align="center">
+</p>
+
+In 1981, a cargo ship named The Primrose ran aground on the coral reef surrounding North Sentinel island (an island in the Andaman archipelago). 
+The tribes living on that island do not appreciate (their dealings with people who tried, has made this very clear) contact by the outside world, mainly due to bitter experiences in the past.  
+The crew radioed for assistance and settled in for a long wait. But in the morning they saw 50 men with bows on the beach, building makeshift boats. The crew called for an emergency airlift and were evacuated, and not a moment too soon. Rough waves had thwarted the Sentinelese tribes in their attempts to board, but the weather was clearing.  
+The ship and its cargo were left at the island, awaiting discovery by Neolithic eyes. Today one can still see the gutted remains on The Primrose on Google Earth
+
+Speaking about this, I motivated the class to think about the reaction/feeling of the tribes who might have boarded the ship and seen a glimpse of the modern world(tools, technology etc.)
+
+We've come a long way since Democtirus 🙂
+
+## Week 8 and 9: Midsemester exam and break
 
 Conducted the midsemester exam.
-How come we never had a midsemester break at BITS 😯
-
-## Week 9 and 8: Midsemester break
-
 How come we never had a midsemester break at BITS 😯
 
 ## Week 10: Quantum Computing
@@ -174,6 +189,7 @@ In other words, cracking an m digit code takes longer than an n digit code when 
 
 Naturally, we as humans do not settle at this (especially when there's money involved 😛) and think of ways to tackle this. Thats what a quantum computer (Shor's algorithm) is capable of achieving. And then there's post-quantum cryptography. Thinking of a dear friend, I left the class at this!
 
+
 ## Week 11: Evolution...collective behaviour
 
 It was quite interesting to learn about Dr. Rosalind Franklin and Alfred Russel Wallace, names which are often missed in crediting the discovering of DNA and evolution respectively. 
@@ -182,3 +198,27 @@ Showing some cool examples of evolution, collective behaviour of birds, fish, an
 
 <img src="https://media.giphy.com/media/o81mQKiRLl4fC/giphy.gif" align="left" width="400">
 <img src="https://media.giphy.com/media/D8PobCFg1w6Yg/giphy.gif" align="right" width="300">
+
+
+## Week 12: Conditional probability
+
+This week, Dr. Menon cited examples of Monty Hall problem, O.J. Simpson trial to introduce the class to Baye's probability. Additionally, this introduced the class to asking the right questions and acknowledging and making best use of the information at hand to make a decision when stochasticity is involved.
+
+~~~~
+Say a plane crashes and Boeing is on trial arguing that the cause was not mechanical failure, citing
+that, "Only 1 in every 100,000 planes will ever have this particular mechanical failure
+
+Probably true, but who cares?
+
+The question you want answered is, of planes that do crash, what percentage had that mechanical failure?
+
+It might not be a large number, as there are many possible causes of a crash, but it will be larger than 1 in 100,000.
+~~~~
+
+## Week 13: Climate change
+
+This week's class focussed on what is probably the most challenging problem our world faces today. Videos of pro and anti (eg: Willie Soon) climate change activists were shown to class with following discussions on the validity of climate change. It also exposed the class to peer reviewed scientific work and the need for it. 
+
+## Week 14: Health
+
+
