@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Elephant In Town.md
+title: An Elephant In Town
 categories: Daily_Life
 tags: grandparents priorities
 share: true
@@ -46,9 +46,9 @@ I, on the other hand, felt as joyous as an elephant given permission to pluck hi
 For those who aren't familiar with these gentle (not always) giants, jackfruit IS their favorite fruit. 
 This city elephant, however, lacked a trunk, strength, and experience to bring down his favorite fruit. 
 Troubled by the thought that this elephant hasn't plucked a jackfruit before,
-granduncle (remember he's 85) single handedly brought down a ladder and with `detailed' instructions like 
+granduncle (remember he's 85) single handedly brought down a ladder and with 'detailed' instructions like 
 "climb this ladder and bring down that fruit" he let my roots take over!
-Kind of reminded me when I was `taught' to ride a motorbike: "Here are the keys, thats the bike...go on then" 
+Kind of reminded me when I was 'taught' to ride a motorbike: "Here are the keys, thats the bike...go on then" 
 
 Why was mum there? 
 Let me put it this way. Ask mum the choose between jackfruit and Rachith, she'll choose the former! 
