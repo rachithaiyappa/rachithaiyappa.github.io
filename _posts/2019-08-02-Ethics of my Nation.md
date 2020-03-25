@@ -27,8 +27,8 @@ Telling me my country deported x number of illegal immigrants successfully but i
 I often pride myself being a part of and a contributor to the Indian Jugaad. It works! I wouldn't be surprised if it works with the NRC too! I hope it does. 
 
 Of course, the fragile situation of why illegal immigrants exist in the first place is a conversation for some other time. 
-I am not stating that India needs to stop working to fix such a situation. Instead, I would not want India to forget what we stand for while dealing with such a fragile situtation. 
+I am not stating that India needs to stop working to fix such a situation. Instead, I would not want India to forget what we stand for while dealing with such a fragile situation. 
 
-The status quo seems to suggest today's India is not the India my forefarthers envisioned.
+The status quo seems to suggest today's India is not the India my forefathers envisioned.
 
 India is many things. It is and will always be my home. For someone else, the definition of home changed overnight.
