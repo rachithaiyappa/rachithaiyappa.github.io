@@ -19,12 +19,12 @@ is regarded as one of the greatest players to have graced the game. Certainly, t
 As true as that is, I hope the individual I speak about here, 
 who I think is genuinely passionate about his career (and life, in general), truly is! 
 
-I spent Jan-June 2019 at Berlin working towards my [Master’s Thesis](https://drive.google.com/file/d/1zF-q_Jy7Zx0OV8zRDERn4ye1g-OdWggo/view?usp=sharing). 
-My experience is Germany was...well...different! 
+I spent my time betweeen Jan-June 2019 in Berlin working towards my [Master’s Thesis](https://drive.google.com/file/d/1zF-q_Jy7Zx0OV8zRDERn4ye1g-OdWggo/view?usp=sharing). 
+My experience in Germany was...well...different! 
 Not the regular kind of different I usually write (or plan to write :P) about 
 but the kind I have been seeking for quite sometime now!
 
-A part of what made this 'different’ so memorable is Dr. Pawel Romanczuk, my supervisor. 
+A part of what made this 'different’ so memorable is [Dr. Pawel Romanczuk](https://scholar.google.com/citations?user=CKoH18sAAAAJ&hl=en), my supervisor. 
 Like any other young scientist, Pawel is actively involved in many, many things. 
 To name two, he is the PI of the [Collective Information Processing lab](http://lab.romanczuk.de/) at Humboldt-Universität zu Berlin 
 and part of the super cool [Science of Intelligence cluster](https://www.scienceofintelligence.de/). 
@@ -33,16 +33,16 @@ During my first call with Pawel and Winnie<sup id="myfootnotelinkback">[1](#myfo
 I immediately took a liking to his proactive approach to research and enjoyed our honest and open conversation, 
 not restricted to research. 
 Lately, I’ve found myself having to make choices. 
-I’ve never enjoyed making choices. 
+I’ve never enjoyed making said choices. 
 I don’t think I ever will. 
 But apparently, life says you can’t have it all. <br />
-*(Update June 2020) I still don't like making choices. I want it all 😛*<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(Update June 2020) I still don't like making choices. I want it all* 😛<br />
 To a question I raised (outside of research), Pawel, not making an effort to hide the fact that he’s been through it all said,
 
 ***<div align="center">“Follow your gut!”</div>***
 
 In doing so, I’m glad Berlin happened 🙂.<br />
-To say the least, the past months served a selfish purpose of reminding me of a cliche - Love what you do.
+To say the least, the past months served a selfish purpose of reminding (much needed) me of a cliché - Love what you do.
 
 I never did completely fathom him sitting down beside me (as he did with all of his brilliant students) 
 on a weekly basis to discuss my (our) progress. 
@@ -77,7 +77,7 @@ The story, is his to recite. For me, he finally felt human!
 
 A snippet,<br />
 Not so long ago, after a certain stage of one’s education in Germany, 
-before they proceed with their careers, a short stint in the military or a civil service was mandatory. 
+before they proceeded with their careers, a short stint in the military or a civil service was mandatory. 
 Pawel chose the latter and spoke fondly (like he did, about many things) of his experiences and concluded it with this,
 ***<div align="center"> “Everything you do, changes you” </div>***
 <br />
@@ -110,7 +110,9 @@ I’m unsure if that’s a universal trait amongst us. 
 My writing, as usual, fails to capture all the five senses. 
 I conceded with this;
 leading upto my thesis, I had a fair idea of my passion and things which makes me happy but 
-Pawel, as a teacher, showed me what it takes and what it is to enjoy the process. He humanized it for me 🙂
+Pawel, as a teacher, showed me what it takes and what it is to enjoy the process. 
+
+He humanized it for me 🙂
 <br />
 <br />
 ***
@@ -120,16 +122,16 @@ Pawel, as a teacher, showed me what it takes and what it is to enjoy the process
 Winnie’s brilliance requires a write-up of its own. 
 Her untainted patience bore the brunt of my never-ending questions 
 (code, bugs, science, coffee with/without milk, benefits of being legally married in Germany, etc ). 
-Few times, a short meeting with Winnie before we met Pawel saved me from  take away a good laugh 
-If Pawel didn’t go back home and laugh at my stupidity
+At times, a short meeting with Winnie to discuss (read, correct) my work before we met Pawel denied him a good laugh :P
+
 Fun fact: I once accused the computer, as I often do, of having a mind of its own. 
 I kid you not, for the longest time, the program used to run fine when I was sitting in front of the computer. 
 But go out for lunch/snack only to return to see a dead program. You could almost see the monitor’s vile smirk. 
 Of course, it was a bug in the program. 
 And of course, Winnie was there with a celebratory smirk 
-when I nudged her (this time, without a question) for the nth time that week!
+when I nudged her (this time, without a question) for the n<sup>th</sup> time that week!
 
-*Update June 2020: Winnie might be nearing the end of her Ph.D. now* 
+*Update June 2020: Winnie might be nearing the end of her Ph.D. now* :) 
 [↩](#myfootnotelinkback)
 
 <a name="myfootnote2">2</a>:
@@ -139,7 +141,7 @@ when I nudged her (this time, without a question) for the nth time that week!
 
 <a name="myfootnote3">3</a>:
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*Update June 2020*: I’m now all set to start my Ph.D. studies in Informatics (complex networks and systems) at Indian University, Bloomington. Without Pawel and Winnie’s help, this would’ve remained a dream
+*Update June 2020*: I’m now all set to start my Ph.D. studies in Informatics (complex networks and systems) at Indiana University, Bloomington. Without Pawel and Winnie’s help, this would’ve remained a dream
 [↩](#myfootnotelinkback3)
 
 <a name="myfootnote4">4</a>:
