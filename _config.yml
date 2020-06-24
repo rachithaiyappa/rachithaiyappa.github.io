@@ -61,7 +61,7 @@ owner:
   weibo:
   google:
     plus: 
-    analytics: UA-170240696-1
+    analytics: UA-146256299-1
     verify: 
     ad-client: 
     ad-slot: 
@@ -71,4 +71,4 @@ owner:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-  google_analytics: UA-146256299-1
+  google_analytics: UA-170240696-1
