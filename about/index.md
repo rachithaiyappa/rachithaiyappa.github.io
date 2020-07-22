@@ -5,7 +5,9 @@ title: About
 
 My name is Rachith Aiyappa
 
-I'm currently a Teaching Fellow in the Physics Department at Ashoka University, India where I help run a foundational course called Principles of Science which I deeply believe it. This makes me happy.
+I'm an incoming graduate student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream.
+
+Between August-December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India where I helped run a foundational course called Principles of Science which I deeply believe it. Teaching is indeed therapeutic! 
 
 In July 2019, I gradauted with dual degree, a **B.E (Hons.) in Mechanical Engineering** and an **M.Sc.(Hons.) in Physics** from Birla Institute of Technology and Science - Pilani, India.
 
