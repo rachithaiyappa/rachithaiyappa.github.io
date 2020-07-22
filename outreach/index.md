@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## I did some talking. Only this time, I was given permission to :P. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KwfW00WIrLc" target="_blank">
