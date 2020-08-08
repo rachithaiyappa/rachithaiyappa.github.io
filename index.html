@@ -6,19 +6,13 @@ search_omit: true
 ---
 <div class="entry-content">
         <p>My name is Rachith Aiyappa</p>
-<p>I'm an incoming graduate student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream.</p>
-<p>Between August-December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India where I helped run a foundational course called Principles of Science which I deeply believe it. Teaching is indeed therapeutic!</p>
-<p>In July 2019, I gradauted with dual degree, a <strong>B.E (Hons.) in Mechanical Engineering</strong> and an <strong>M.Sc.(Hons.) in Physics</strong> from Birla Institute of Technology and Science - Pilani, India.</p>
-<p>During the 5 years it took me to earn this dual degree, I have enjoyed rains on Marine Drive while interning at the Inter-University Centre for Astronomy and Astrophysics (Pune, India), jumped off a cliff into the Mediterranean whilst a Charpak Summer Research Scholar at Collective Animal Behaviour lab (Univeristy of Paul Sabatier, Toulouse, France), cherished mum's company during my Bachelor Thesis at the Theoretical Ecology and Evolution lab at Indian Institute of Science (Bangalore, India) and experienced a massive cultural shock during my Master Thesis at Institute of Theoretical Biology at Humboldt University (Berlin, Germany).</p>
-<p>Just to reiterate, yes I have a degree in Physics and Mechanical Engineering :P</p>
-<p>I like physics but I love tennis. Been playing the sport since I was as tall as the racquet! Simpler times!</p>
-<p>Actually, I like and do lots of other things. More on that to follow...</p>
-<p>Long story short, I am happy :)</p>
+        <p>I'm an incoming graduate student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream.</p>
+        <p>Between August-December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India where I helped run a foundational course called Principles of Science which I deeply believe it. Teaching is indeed therapeutic!</p>
+        <p>In July 2019, I gradauted with dual degree, a <strong>B.E (Hons.) in Mechanical Engineering</strong> and an <strong>M.Sc.(Hons.) in Physics</strong> from Birla Institute of Technology and Science - Pilani, India.</p>
+        <p>During the 5 years it took me to earn this dual degree, I have enjoyed rains on Marine Drive while interning at the Inter-University Centre for Astronomy and Astrophysics (Pune, India), jumped off a cliff into the Mediterranean whilst a Charpak Summer Research Scholar at Collective Animal Behaviour lab (Univeristy of Paul Sabatier, Toulouse, France), cherished mum's company during my Bachelor Thesis at the Theoretical Ecology and Evolution lab at Indian Institute of Science (Bangalore, India) and experienced a massive cultural shock during my Master Thesis at Institute of Theoretical Biology at Humboldt University (Berlin, Germany).</p>
+        <p>Just to reiterate, yes I have a degree in Physics and Mechanical Engineering :P</p>
+        <p>I like physics but I love tennis. Been playing the sport since I was as tall as the racquet! Simpler times!</p>
+        <p>Actually, I like and do lots of other things. More on that to follow...</p>
+        <p>Long story short, I am happy :)</p>
 
 </div>
-
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
