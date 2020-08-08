@@ -24,8 +24,8 @@
 # - title: Theme Setup
 #  url: /theme-setup/
 
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/
   
 - title: About
   url: /about/
