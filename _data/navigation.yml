@@ -1,8 +1,5 @@
 # Site navigation links
 
-# - title: About
- # url: /about/
- 
 - title: Blog
   url: /blog/
   
@@ -29,3 +26,6 @@
 
 - title: Search
   url: /search/
+  
+- title: About
+  url: /about/
