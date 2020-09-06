@@ -30,6 +30,8 @@ Two takes on Scale Free Networks: [Clauset-Quanta Magazine](https://www.quantama
 
 [Coronavirus and how we are dealing with it](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
+[Fooling Ourselves](https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517)
+
 
 ## Sport
 [A Tribute to Rafa of Clay 🥺](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
