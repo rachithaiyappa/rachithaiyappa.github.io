@@ -13,7 +13,7 @@ title: Outreach
 <p align="center">
   <b>Charpak Scholarship (check out both of them!)  </b><br> <br>
   <a href="https://www.inde.campusfrance.org/rachith-aiyappa" target="_blank"/>
-  <img align="middle" src="https://github.com/rachithaiyappa/rachithaiyappa.github.io/blob/master/images/campus_france.png" width="300" class="center"/>
+  <img align="middle" src="https://drive.google.com/file/d/1m5Y36odGaveQe_NN7hWn1znLjNZvaWtn/view?usp=sharing" width="300" class="center"/>
   </a>
   &nbsp;
   &nbsp;
