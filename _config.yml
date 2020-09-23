@@ -74,7 +74,7 @@ owner:
     weights: "400,400i,700,700i"
   google_analytics: UA-146256299-1
   
-  footer_links:
+footer_links:
   - title: Twitter
     url: https://twitter.com/rachithaiyappa
     icon: fab fa-twitter-square
