@@ -73,3 +73,11 @@ owner:
   - name: "Lora"
     weights: "400,400i,700,700i"
   google_analytics: UA-146256299-1
+  
+  footer_links:
+  - title: Twitter
+    url: https://twitter.com/rachithaiyappa
+    icon: fab fa-twitter-square
+  - title: Email
+    url: mailto:rachithaiyappa96@gmail.com
+    icon: fab fa-envelope-square
