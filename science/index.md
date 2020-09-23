@@ -3,4 +3,4 @@ layout: page
 title: Science
 ---
 
-1. [I709](https://rachithaiyappa.github.io/I709/) - This is the weekly assignment of papers read for the the Advanced Seminar II in Complex Systems (I709) at IU hosted by Dr. Filippo Radicchi. Contains one slide summary of seminal complex systems and networks work
+1. [I709](https://rachithaiyappa.github.io/I709/) - This contains a one slide summary of seminal work in different topics of complex systems and networks. Reading these papers was part of the the weekly assignment in the Advanced Seminar II in Complex Systems (I709) course at IU hosted by Dr. Filippo Radicchi. 
