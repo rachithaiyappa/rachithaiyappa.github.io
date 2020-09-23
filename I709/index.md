@@ -3,11 +3,11 @@ layout: page
 title: Seminar in Complex Systems
 ---
 
-## One slide summary of seminal complex systems and networks work
+## One slide summary of seminal complex systems and networks work. Includes trasncript of my 3 minute presentations 
 
 This contains the weekly assignment of papers read for the the Advanced Seminar II in Complex Systems (I709) at IU hosted by Dr. Filippo Radicchi.
 
-**The title (next to the serial number) leads to the transcript of my weekly presentation while the thumbnail leads to the summary slide.**
+*The **title** (next to the serial number) leads to the **transcript** of my weekly presentation while the **thumbnail** leads to the **summary slide**.*
 
 1.[Power Laws](https://drive.google.com/file/d/1tE-zXmM-sQn87Joqy5myYyF2gwqNsJmO/view?usp=sharing) (*transcript missing*)
 
