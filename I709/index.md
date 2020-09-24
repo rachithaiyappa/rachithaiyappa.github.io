@@ -22,3 +22,7 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 3.[Science of Science](https://docs.google.com/document/d/13GueBS2Qsoh1ui35znT0zrRqfq0_z7eNjgiD81B7UoA/edit?usp=sharing)
 
 [![Science of Science](https://science.sciencemag.org/content/359/6379/eaao0185/F1.large.jpg)](https://drive.google.com/file/d/1iac64qienVagl1BwpmKbZHZtIZJJkxb9/view?usp=sharing)
+
+4.[Collective Motion](https://docs.google.com/document/d/1s1J3Hp0lsiET1p62dKnBZGx1tDfbIvsyQAB96A19Czg/edit?usp=sharing)
+
+[![Collective Motion](https://lh3.googleusercontent.com/proxy/VIupp8qdOP8DNYZV167LHIfbplJzU6aNyn1FhcG8bVn_8oJIN9NbXDMZY9XpagPXEJ7ABo4W3-wjwePFEUjRiA7JWwvTDPbAwMetKafg_A)](https://drive.google.com/file/d/1Z1jMZUZCiPPXes5idqRTpcIxHxwD_n-I/view?usp=sharing)
