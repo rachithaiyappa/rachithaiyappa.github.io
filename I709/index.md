@@ -26,3 +26,7 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 4.[Collective Motion](https://docs.google.com/document/d/1s1J3Hp0lsiET1p62dKnBZGx1tDfbIvsyQAB96A19Czg/edit?usp=sharing)
 
 [![Collective Motion](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL9Dlx6KpeB8/v0/1200x737.jpg)](https://drive.google.com/file/d/1Z1jMZUZCiPPXes5idqRTpcIxHxwD_n-I/view?usp=sharing)
+
+5.[Economic Complexity](https://docs.google.com/document/d/1mJAX7k3noxXR0PSxmoWL6rBpOiGOLfEOy60s0hrwqnU/edit?usp=sharing)
+
+[![Economic Complexity](https://www.nature.com/news/polopoly_fs/7.23910.1424720666!/image/fig_flyer.png_gen/derivatives/fullsize/fig_flyer.png)](https://drive.google.com/file/d/1w37bBlMPC8ytz2IpS8q-08YHH-0Q3_ls/view?usp=sharing)
