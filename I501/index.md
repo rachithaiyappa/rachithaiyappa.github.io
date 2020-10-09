@@ -3,8 +3,6 @@ layout: page
 title: Summary and Relflection of papers read
 ---
 
-## Summary and Relflection of papers read
-
 This contains my written piece on a few papers read for Introduction to Informatics (I501) at IU hosted by Dr. Staša Milojević
 
 *The **title** (next to the serial number) leads to the **paper** while the **thumbnail** leads to my **summary and reflection**.*
