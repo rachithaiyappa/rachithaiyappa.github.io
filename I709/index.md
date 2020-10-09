@@ -33,4 +33,4 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 
 6.[Mobility](https://docs.google.com/document/d/1hG6u6q05HgRta_JJC2RcHYRJS3ZEwpoaFFgHcIPu_74/edit?usp=sharing)
 
-[![Mobility](https://royalsociety.org/-/media/policy/projects/international-mobility/international-mobility-of-researchers-visualisation.jpg)](https://drive.google.com/file/d/12ezmJcnTmcjFlXDoFnR_CIwRRrxDwacZ/view?usp=sharing)
+[![Mobility](https://www.iom.int/sites/default/files/styles/slideshow_style/public/basic_page/pictures/outbreakpreaparedness.jpg?itok=hN4OzEQt)](https://drive.google.com/file/d/12ezmJcnTmcjFlXDoFnR_CIwRRrxDwacZ/view?usp=sharing)
