@@ -30,3 +30,7 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 5.[Economic Complexity](https://docs.google.com/document/d/1mJAX7k3noxXR0PSxmoWL6rBpOiGOLfEOy60s0hrwqnU/edit?usp=sharing)
 
 [![Economic Complexity](https://www.nature.com/news/polopoly_fs/7.23910.1424720666!/image/fig_flyer.png_gen/derivatives/fullsize/fig_flyer.png)](https://drive.google.com/file/d/1w37bBlMPC8ytz2IpS8q-08YHH-0Q3_ls/view?usp=sharing)
+
+6.[Mobility](https://docs.google.com/document/d/1hG6u6q05HgRta_JJC2RcHYRJS3ZEwpoaFFgHcIPu_74/edit?usp=sharing)
+
+[![Mobility](https://royalsociety.org/-/media/policy/projects/international-mobility/international-mobility-of-researchers-visualisation.jpg)](https://drive.google.com/file/d/12ezmJcnTmcjFlXDoFnR_CIwRRrxDwacZ/view?usp=sharing)
