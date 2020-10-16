@@ -34,3 +34,6 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 6.[Mobility](https://docs.google.com/document/d/1hG6u6q05HgRta_JJC2RcHYRJS3ZEwpoaFFgHcIPu_74/edit?usp=sharing)
 
 [![Mobility](https://www.iom.int/sites/default/files/styles/slideshow_style/public/basic_page/pictures/outbreakpreaparedness.jpg?itok=hN4OzEQt)](https://drive.google.com/file/d/12ezmJcnTmcjFlXDoFnR_CIwRRrxDwacZ/view?usp=sharing)
+
+7. Science of Fake News - I gave a 25 minute (went to 34 minutes :/) this week. Transcript unavailable
+[![Science of Fake News](https://science.sciencemag.org/content/359/6380/1094/F1.large.jpg)](https://drive.google.com/file/d/1xj3arz4e99U4-NObLh52AqZv5pPFinQp/view?usp=sharing)
