@@ -35,5 +35,8 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 
 [![Mobility](https://www.iom.int/sites/default/files/styles/slideshow_style/public/basic_page/pictures/outbreakpreaparedness.jpg?itok=hN4OzEQt)](https://drive.google.com/file/d/12ezmJcnTmcjFlXDoFnR_CIwRRrxDwacZ/view?usp=sharing)
 
-7. Science of Fake News - I gave a 25 minute (went to 34 minutes :/) this week. Transcript unavailable
+7. Science of Fake News - I gave a 25 minute presentation (went to 34 minutes :/) this week. Transcript unavailable
 [![Science of Fake News](https://science.sciencemag.org/content/359/6380/1094/F1.large.jpg)](https://drive.google.com/file/d/1xj3arz4e99U4-NObLh52AqZv5pPFinQp/view?usp=sharing)
+
+8. Network Structure - I gave a 25 minute presentation (guess I nailed the time this week :P) this week. Transcript unavailable
+[![Science of Fake News](https://flourish.studio/images/blog/network-chart.jpg)](https://drive.google.com/file/d/19-e0ICyreKHkcJWeUnqg7wz6jyoQLYiq/view?usp=sharing)
