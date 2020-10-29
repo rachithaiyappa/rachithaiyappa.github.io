@@ -40,3 +40,7 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 
 8. Network Structure - I gave a 25 minute presentation (guess I nailed the time this week :P) this week. Transcript unavailable
 [![Science of Fake News](https://flourish.studio/images/blog/network-chart.jpg)](https://drive.google.com/file/d/19-e0ICyreKHkcJWeUnqg7wz6jyoQLYiq/view?usp=sharing)
+
+6.[Network Robustness](https://docs.google.com/document/d/1DB3GyA0mJfYWYom6X6DgdV2MCfFcj4-IJvpSRJMwi28/edit?usp=sharing)
+
+[![Network Robustness](https://lh3.googleusercontent.com/proxy/VsLx6_sGBIHNc3X-DQxDed-C5QtntecJocjblUZMWMMvLNG_4dZjygsZ1JZzDE8FbPnTr1sDBTKYeRIX0vZ6h5FGKKDzDvXO46K-WpzI5oBkXQ)](https://drive.google.com/file/d/1Ndb1Ou6cZmy_m5kfRZXyZTjb3q0Mp5Dk/view?usp=sharing)
