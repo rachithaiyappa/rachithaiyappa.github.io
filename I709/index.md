@@ -41,6 +41,8 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 8. Network Structure - I gave a 25 minute presentation (guess I nailed the time this week :P) this week. Transcript unavailable
 [![Science of Fake News](https://flourish.studio/images/blog/network-chart.jpg)](https://drive.google.com/file/d/19-e0ICyreKHkcJWeUnqg7wz6jyoQLYiq/view?usp=sharing)
 
-6.[Network Robustness](https://docs.google.com/document/d/1DB3GyA0mJfYWYom6X6DgdV2MCfFcj4-IJvpSRJMwi28/edit?usp=sharing)
+9.[Network Robustness](https://docs.google.com/document/d/1DB3GyA0mJfYWYom6X6DgdV2MCfFcj4-IJvpSRJMwi28/edit?usp=sharing)
+[![Network Robustness](https://www.researchgate.net/profile/Joao_Pinheiro_Neto/publication/319469466/figure/fig6/AS:631671934177308@1527613733481/Network-robustness-against-random-failure-blue-squares-and-targeted-attack-red.png)](https://drive.google.com/file/d/1Ndb1Ou6cZmy_m5kfRZXyZTjb3q0Mp5Dk/view?usp=sharing)
 
-[![Network Robustness](https://lh3.googleusercontent.com/proxy/VsLx6_sGBIHNc3X-DQxDed-C5QtntecJocjblUZMWMMvLNG_4dZjygsZ1JZzDE8FbPnTr1sDBTKYeRIX0vZ6h5FGKKDzDvXO46K-WpzI5oBkXQ)](https://drive.google.com/file/d/1Ndb1Ou6cZmy_m5kfRZXyZTjb3q0Mp5Dk/view?usp=sharing)
+10.[Dynamics on Networks 1](https://docs.google.com/document/d/1yF9M8Jy7DohT2H9VY6cCmZ1B6stlti8cH73xKr0YTkU/edit?usp=sharing)
+[![Dynamics on Networks 1](https://www.researchgate.net/publication/276133476/figure/fig6/AS:322956849893384@1454010321219/Schematic-representation-of-k-shell-decomposition.png)](https://drive.google.com/file/d/13dmddFSlghU-2j6nrGRWm4rPs2SU1aTi/view?usp=sharing)
