@@ -46,3 +46,9 @@ This contains the weekly assignment of papers read for the the Advanced Seminar 
 
 10.[Dynamics on Networks 1](https://docs.google.com/document/d/1yF9M8Jy7DohT2H9VY6cCmZ1B6stlti8cH73xKr0YTkU/edit?usp=sharing)
 [![Dynamics on Networks 1](https://www.researchgate.net/publication/276133476/figure/fig6/AS:322956849893384@1454010321219/Schematic-representation-of-k-shell-decomposition.png)](https://drive.google.com/file/d/13dmddFSlghU-2j6nrGRWm4rPs2SU1aTi/view?usp=sharing)
+
+11. [Dynamics on Networks 2](https://drive.google.com/file/d/1pQ3QJBWmOz1TDtO3cDFAaya4VtG30iT7/view?usp=sharing) (*transcript missing*)
+[![Dynamics on Networks 2](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms1063/MediaObjects/41467_2010_Article_BFncomms1063_Fig3_HTML.jpg)](https://drive.google.com/file/d/1pQ3QJBWmOz1TDtO3cDFAaya4VtG30iT7/view?usp=sharing)
+
+12. [Multilayer Networks](https://drive.google.com/file/d/1AGJpbrX09dln7EkAO8SZ0tjZu0syACr2/view?usp=sharing) (*transcript missing*)
+[![Multilayer Networks](https://lh3.googleusercontent.com/proxy/McFs2nB3i_m21ektdvW4yoNLbIdD_7c-JVd1_hBOMC6igkh0nzha630e0aH-6sz2dZG2uFj9B7jpIfeTGm-bAtElttVl-9P61R8)](https://drive.google.com/file/d/1AGJpbrX09dln7EkAO8SZ0tjZu0syACr2/view?usp=sharing)
