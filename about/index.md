@@ -7,7 +7,9 @@ My name is Rachith Aiyappa
 
 I am a first year student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream. 
 
-Currently, apart from drowning in exiciting coursework and readings, I am working on an exciting project identifying superspreaders of information on Twitter with the amazing [Networks and Agents Network (NaN)](https://cnets.indiana.edu/groups/nan/) team led by Dr. Fil Menczer at IU.  
+Currently, apart from drowning in exiciting coursework and readings, I am working on an exciting project identifying superspreaders of information on Twitter with the amazing [Networks and Agents Network (NaN)](https://cnets.indiana.edu/groups/nan/) team led by 'OsoMe (read - awesome)' Dr. Fil Menczer at IU.  
+
+More recently I've started work with the super cool [Dr. YY Ahn](https://yongyeol.com/) working on human belief netwoks. The next time I update this, he would have defintely pushed me to Julia :P
 
 Between August-December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India where I helped run a foundational course called Principles of Science which I deeply believe it. Teaching is indeed therapeutic! 
 
