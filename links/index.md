@@ -32,6 +32,7 @@ Two takes on Scale Free Networks: [Clauset-Quanta Magazine](https://www.quantama
 
 [Fooling Ourselves](https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517)
 
+[Hacked without the click!](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
 
 ## Sport
 [A Tribute to Rafa of Clay 🥺](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
