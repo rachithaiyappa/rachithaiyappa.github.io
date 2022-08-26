@@ -5,7 +5,7 @@ title: About
 
 My name is Rachith Aiyappa
 
-I am a second year student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream. 
+I am a third year student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream. 
 
 Crrently, I am studying for my qualification exams. Exciting times!
 
