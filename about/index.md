@@ -7,7 +7,10 @@ My name is Rachith Aiyappa
 
 I am a second year student in the Informatics (Complex Networks and Systems) Ph.D. program at the Luddy School of Informatics, Computing and Engineering at Indiana University in Bloomington. Not so long ago, this seemed like a distant dream. 
 
-Currently, apart from drowning in "exiciting" coursework, I work on a bunch of projects:  
+Crrently, I am studying for my qualification exams. Exciting times!
+
+My ongoing projects include,
+
 - Identifying superspreaders of information on Twitter with the [Networks and Agents Network (NaN)](https://cnets.indiana.edu/groups/nan/) team led by 'OsoMe (read - awesome)' Dr. Fil Menczer at IU.  
 - Modelling (and hopefully emprically validating) human belief networks and social contagion with the super cool [Dr. YY Ahn](https://yongyeol.com/).
 - Graph Compression (read embeddings) with [Dr. Filippo Radicchi](https://cgi.luddy.indiana.edu/~filiradi/) and applying this to science of science.
