@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Follow your gut"
-categories: Cliché
-tags: Supervisor Research
+categories: other
+tags: Cliché Supervisor Research
 share : true
 comments : true
 ---
