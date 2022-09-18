@@ -1,8 +1,8 @@
 ---
 layout: post
 title: An Elephant In Town
-categories: Daily_Life
-tags: grandparents priorities
+categories: other
+tags: Daily_Life grandparents priorities
 share: true
 comments: true
 ---
