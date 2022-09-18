@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ethics of my Nation
-categories: Current_Affairs
-tags: Politics Citizenship
+categories: other
+tags: Current_Affairs Politics Citizenship
 share : true
 comments : true
 ---
