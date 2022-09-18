@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zero Shot for Stance Detection"
-categories: Natural Language Processing
+categories: science
 tags: Research NLP
 share : true
 comments : true
