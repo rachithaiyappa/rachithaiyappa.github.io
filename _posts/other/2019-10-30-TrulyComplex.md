@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Truly Complex
-categories: Current_Affairs
-tags: Economics GDP India slowdown
+categories: other
+tags: Current_Affairs Economics GDP India slowdown
 share: true
 comments: true
 ---
