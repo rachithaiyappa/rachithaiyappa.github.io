@@ -5,11 +5,11 @@ categories: science
 tags: Research NLP
 share : true
 comments : true
----
-
+--- 
 
 TLDR - Zero Shot inference outperforms the **best** performers of SemEval 2016 in the stance detection task!
 
+*Update 25th October 2022: The final table of this blog post **might** be incorrect since some recent analysis has shown me that **perhaps** I am evaluating the zero-shot inference pipeline in an incorrect manner. Unfortunately, I cannnot get around to updating it immediately but I am actively working on 'stuff' related to it. So please do reach out if you have concerns regarding it*
 
 <img src="/images/NLP_ZeroShot.png" alt="NLP" class="center">
 
