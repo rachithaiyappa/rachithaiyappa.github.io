@@ -7,6 +7,9 @@ title: Papers
 - [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
     **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn
     
+- The Inexplicable Efficacy of Language Models (in review).     
+    **Rachith Aiyappa**$^* $, Zoher Kachwala $^*$ 
+    
 ### 2022
 - Spread of Beliefs in Segregated Communities (in review)  
     Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger
