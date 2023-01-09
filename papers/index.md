@@ -5,7 +5,7 @@ title: Papers
 ### 2023
 
 - [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
-    Rachith Aiyappa, Alessandro Flammini, Yong-Yeol Ahn
+    **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn
     
 ### 2022
 - Spread of Beliefs in Segregated Communities (in review)  
