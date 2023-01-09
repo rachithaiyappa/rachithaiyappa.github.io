@@ -2,11 +2,15 @@
 layout: page
 title: Papers
 ---
+### 2023
 
+- [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
+    Rachith Aiyappa, Alessandro Flammini, Yong-Yeol Ahn
+    
 ### 2022
-1. Spread of Beliefs in Segregated Communities (in review)  
+- Spread of Beliefs in Segregated Communities (in review)  
     Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger
 
-2. [Identification and characterization of misinformation superspreaders on social media](https://arxiv.org/abs/2207.09524).  
+- [Identification and characterization of misinformation superspreaders on social media](https://arxiv.org/abs/2207.09524).  
     Matthew R. DeVerna, **Rachith Aiyappa**, Diogo Pacheco, John Bryden, Filippo Menczer
     
