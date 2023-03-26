@@ -11,7 +11,7 @@ title: Papers
 - [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
     **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn
     
-- [Can we trust the evaluation on ChatGPT?](https://arxiv.org/abs/2303.12767).     
+- [Can we trust the evaluation on ChatGPT?](https://arxiv.org/abs/2303.12767)     
     **Rachith Aiyappa**, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
     
 - The Inexplicable Efficacy of Language Models (in review).     
