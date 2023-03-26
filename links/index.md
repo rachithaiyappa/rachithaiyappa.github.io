@@ -34,5 +34,9 @@ Two takes on Scale Free Networks: [Clauset-Quanta Magazine](https://www.quantama
 
 [Hacked without the click!](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
 
+[Language models and intelligene](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+
+[Language models fromn the perspective of compression](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+
 ## Sport
 [A Tribute to Rafa of Clay 🥺](https://www.straitstimes.com/sport/tennis/on-paris-clay-rafael-nadal-is-still-teaching-us-lessons?&utm_source=facebook&utm_medium=social-media&utm_campaign=addtoany)
