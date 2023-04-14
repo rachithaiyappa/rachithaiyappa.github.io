@@ -14,7 +14,7 @@ title: Papers
 - [Can we trust the evaluation on ChatGPT?](https://arxiv.org/abs/2303.12767)     
     **Rachith Aiyappa**, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
     
-- The Inexplicable Efficacy of Language Models (in review).     
+- [The Inexplicable Efficacy of Language Models](https://dl.acm.org/doi/10.1145/3589654)     
     **Rachith Aiyappa**,* Zoher Kachwala* 
     
 ### 2022
