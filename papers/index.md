@@ -6,7 +6,7 @@ title: Papers
 ### 2023
 
 - [A multi-platform collection of social media posts about the 2022 U.S. midterm elections](https://arxiv.org/abs/2301.06287).   
-    Matthew R. DeVerna,* **Rachith Aiyappa**,* Wanying Zhao,* Manita Pote,* Bao Tran Truong,* David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Ozgur Can Seckin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, and Kai-Cheng Yang
+    **Rachith Aiyappa**,* Matthew R DeVerna,* Manita Pote,* Bao Tran Truong,* Wanying Zhao,* David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Ozgur Can Seckin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, Kai-Cheng Yang
 
 - [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
     **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn
