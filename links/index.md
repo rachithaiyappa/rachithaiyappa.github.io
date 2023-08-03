@@ -8,6 +8,8 @@ title: Links
 
 [Einstein and Tagore: On The Nature of Realilty](https://www.brainpickings.org/2012/04/27/when-einstein-met-tagore/)
 
+[Prompt injection and ChatGPT](https://kai-greshake.de/posts/puzzle-22745/)
+
 ## Science
 [Prof. Michael Levin: Bioelectric Computation Outside the Nervous System, NeurIPS](https://www.youtube.com/watch?v=RjD1aLm4Thg)
 
