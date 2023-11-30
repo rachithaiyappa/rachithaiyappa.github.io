@@ -29,12 +29,13 @@ title: Papers
     **Rachith Aiyappa**, Jisun An, Haewoon Kwak, Yong-Yeol Ahn  
   _ACL TrustNLP workshop_
     
-- [The Inexplicable Efficacy of Language Models](https://dl.acm.org/doi/10.1145/3589654)     
+- [The Inexplicable Efficacy of Language Models](https://dl.acm.org/doi/10.1145/3589654)      
     **Rachith Aiyappa**,* Zoher Kachwala*  
   _ACM XRDS_ 
     
-- Spread of Beliefs in Segregated Communities (in press, Perspectives on Psychological Science)  
-    Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger
+- [The Spread of Beliefs in Partially Modularized Communities](https://journals.sagepub.com/doi/10.1177/17456916231198238)  
+    Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger  
+  _Perspectives on Psychological Science_
 ### 2022
 
 - [Identification and characterization of misinformation superspreaders on social media](https://arxiv.org/abs/2207.09524).  
