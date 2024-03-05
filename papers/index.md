@@ -6,16 +6,23 @@ title: Papers
   
 ### In-Progress 
 
-- Stance Detection using Large Language Models.  
-  _with Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
 - Extracting Belief Networks from Social Media Data using Large Language Models.  
-    _with Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
+  _with Jisun An, Haewoon Kwak, Alessandro Flaminni, Filippo Menczer, and Yong-Yeol Ahn_
+- Large Language Models and Social Surveys  
+  _with Junsol Kim, Marios Papachristou, Yong-Yeol Ahn, and Byungkyu Lee_
+- Belief Embeddings  
+  _with **Bwung-Hwee Lee**, Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
 - Evaluation biases in link prediction algorithm.  
-  _with Sadamori Kojaku, Munjung Kim, Özgür Can Seçkin, and Yong-Yeol Ahn_
+  _with **Sadamori Kojaku**, Munjung Kim, Özgür Can Seçkin, and Yong-Yeol Ahn_
 - Amplifiers of Misinformation on Social Media.  
-  _with Matthew R DeVerna, Francesco Pierri, Diogo Pacheco, John Bryden, and Filippo Menczer_
+  _with **Matthew R DeVerna**, Francesco Pierri, Diogo Pacheco, John Bryden, and Filippo Menczer_
 - Multi-Platform Analysis of US 2020 midterm elections.  
-  _with Bao Tran Truong, Özgür Can Seçkin, Sangyeon Kim, Matthew R DeVerna, and Kai-Cheng Yang_
+  _with **Bao Tran Truong**, Özgür Can Seçkin, Sangyeon Kim, Matthew R DeVerna, and Kai-Cheng Yang_
+
+### 2024 
+
+- [Benchmarking zero-shot stance detection with FlanT5-XXL: Insights from training data, prompting, and decoding strategies into its near-SoTA performance](https://arxiv.org/abs/2403.00236)  
+  **Rachith Aiyappa**, Shruthi Senthilmani, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
 ### 2023
 
 - [A multi-platform collection of social media posts about the 2022 U.S. midterm elections](https://ojs.aaai.org/index.php/ICWSM/article/view/22205).   
