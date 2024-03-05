@@ -7,7 +7,7 @@ My name is Rachith Aiyappa
 
 I am a fourth-year Ph.D. student majoring in Informatics (Complex Networks and Systems track) with a minor in Computer Science at the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. Not so long ago, this seemed like a distant dream. 
 
-My current research broadly encompasses belief networks, social information diffusion, and natural language processing. Some of my ongoing projects include,
+My current research broadly encompasses belief networks, social information diffusion, and natural language processing. Some of my ongoing projects include (see also [papers](https://rachithaiyappa.github.io/papers/)),
 
 - Extracting belief networks from social media data
 - Large Language Models and Stance Detection | [arxiv](https://arxiv.org/abs/2301.02368)
