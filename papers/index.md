@@ -7,21 +7,6 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 
 
   \* indicates equal contribution.
-  
-### In-Progress 
-
-- Extracting Belief Networks from Social Media Data using Large Language Models.  
-  _with Jisun An, Haewoon Kwak, Alessandro Flaminni, Filippo Menczer, and Yong-Yeol Ahn_
-- Large Language Models and Social Surveys  
-  _with Junsol Kim, Marios Papachristou, Yong-Yeol Ahn, and Byungkyu Lee_
-- Belief Embeddings  
-  _with **Bwung-Hwee Lee**, Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
-- Evaluation biases in link prediction algorithm.  
-  _with **Sadamori Kojaku**, Munjung Kim, Özgür Can Seçkin, and Yong-Yeol Ahn_
-- Amplifiers of Misinformation on Social Media.  
-  _with **Matthew R DeVerna**, Francesco Pierri, Diogo Pacheco, John Bryden, and Filippo Menczer_
-- Multi-Platform Analysis of US 2020 midterm elections.  
-  _with **Bao Tran Truong**, Özgür Can Seçkin, Sangyeon Kim, Matthew R DeVerna, and Kai-Cheng Yang_
 
 ### 2024 
 
@@ -34,7 +19,7 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
   _Plos One_
 
  - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
-   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Ozgur Can Seckin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
+   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
 
 - [Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](https://arxiv.org/abs/2408.07237)  
   Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak
@@ -45,7 +30,7 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 ### 2023
 
 - [A multi-platform collection of social media posts about the 2022 U.S. midterm elections](https://ojs.aaai.org/index.php/ICWSM/article/view/22205).   
-    **Rachith Aiyappa**,* Matthew R DeVerna,* Manita Pote,* Bao Tran Truong,* Wanying Zhao,* David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Ozgur Can Seckin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, Kai-Cheng Yang  
+    **Rachith Aiyappa**,* Matthew R DeVerna,* Manita Pote,* Bao Tran Truong,* Wanying Zhao,* David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Özgür Can Seçkin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, Kai-Cheng Yang  
   _Proceedings of the Seventeenth International AAAI Conference on Web and Social Media_
     
 - [Can we trust the evaluation on ChatGPT?](https://aclanthology.org/2023.trustnlp-1.5/)     
@@ -59,3 +44,18 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 - [The Spread of Beliefs in Partially Modularized Communities](https://journals.sagepub.com/doi/10.1177/17456916231198238)  
     Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger  
   _Perspectives on Psychological Science_
+
+### Under preparation
+
+- Extracting Belief Networks from Social Media Data using Large Language Models.  
+  _with Jisun An, Haewoon Kwak, Alessandro Flaminni, Filippo Menczer, and Yong-Yeol Ahn_
+- Large Language Models and Social Surveys  
+  _with Junsol Kim, Marios Papachristou, Yong-Yeol Ahn, and Byungkyu Lee_
+- Belief Embeddings  
+  _with **Bwung-Hwee Lee**, Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
+- Evaluation biases in link prediction algorithm.  
+  _with **Sadamori Kojaku**, Munjung Kim, Özgür Can Seçkin, and Yong-Yeol Ahn_
+- Amplifiers of Misinformation on Social Media.  
+  _with **Matthew R DeVerna**, Francesco Pierri, Diogo Pacheco, John Bryden, and Filippo Menczer_
+- Multi-Platform Analysis of US 2020 midterm elections.  
+  _with **Bao Tran Truong**, Özgür Can Seçkin, Sangyeon Kim, Matthew R DeVerna, and Kai-Cheng Yang_
