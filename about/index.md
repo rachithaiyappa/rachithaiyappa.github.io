@@ -3,11 +3,12 @@ layout: page
 title: About
 ---
 
-I'm Rachith.
+I'm Rachith.  
+_Atleast that's what I was told_
 
-### One of my dimensions
+## A part of a whole
 I am a Ph.D. student majoring in Informatics ([Complex Networks and Systems track](https://cnets.indiana.edu/)) with a minor in Computer Science at the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. 
-I work closely with Drs. [YY Ahn](https://yongyeol.com/) (my advisor), Alessandro Flammini (https://cnets.indiana.edu/aflammin), [Filippo Menczer](https://cnets.indiana.edu/fil) (and [OSoME](https://osome.iu.edu/), [Jisun An](https://jisun.me/), and [Haewoon Kwak](https://haewoon.io/). 
+I work closely with Drs. [YY Ahn](https://yongyeol.com/) (my advisor), Alessandro Flammini (https://cnets.indiana.edu/aflammin), [Filippo Menczer](https://cnets.indiana.edu/fil) (and [OSoME](https://osome.iu.edu/)), [Jisun An](https://jisun.me/), and [Haewoon Kwak](https://haewoon.io/). 
 Not so long ago, this seemed like a distant dream. 
 
 ### Research
@@ -40,9 +41,8 @@ In July 2019, I graduated with a dual degree, a **B.E (Hons.) in Mechanical Engi
 
 During the 5 years it took me to earn this dual degree, I have enjoyed rains on Marine Drive (Mumbai, India) while interning at the Inter-University Centre for Astronomy and Astrophysics (Pune, India), jumped off a cliff into the Mediterranean whilst a Charpak Summer Research Scholar at Collective Animal Behaviour lab (University of Paul Sabatier, Toulouse, France), cherished mum's company during my Bachelor Thesis at the Theoretical Ecology and Evolution lab at Indian Institute of Science (Bangalore, India) and experienced a massive culture shock (I'm looking at you, mashed potatoes) during my Master Thesis at Institute of Theoretical Biology at Humboldt University (Berlin, Germany).
 
-Just to reiterate, yes I have a degree in Physics and Mechanical Engineering :P
-
-I like physics but I love tennis. Been playing the sport since I was as tall as the racquet! Simpler times!
+I like physics (and science in general) but I love tennis. I'm the happiest on a tennis court.  
+Been playing the sport since I was as tall as the racquet! Simpler times.
 
 Actually, I like and do lots of other things. More on that to follow...
 
