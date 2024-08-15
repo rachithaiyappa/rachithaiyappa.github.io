@@ -3,25 +3,38 @@ layout: page
 title: About
 ---
 
-My name is Rachith Aiyappa
+I'm Rachith.
 
-I am a fourth-year Ph.D. student majoring in Informatics (Complex Networks and Systems track) with a minor in Computer Science at the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. Not so long ago, this seemed like a distant dream. 
+### One of my dimensions
+I am a Ph.D. student majoring in Informatics ([Complex Networks and Systems track](https://cnets.indiana.edu/)) with a minor in Computer Science at the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. 
+I work closely with Drs. [YY Ahn](https://yongyeol.com/) (my advisor), Alessandro Flammini (https://cnets.indiana.edu/aflammin), [Filippo Menczer](https://cnets.indiana.edu/fil) (and [OSoME](https://osome.iu.edu/), [Jisun An](https://jisun.me/), and [Haewoon Kwak](https://haewoon.io/). 
+Not so long ago, this seemed like a distant dream. 
 
-My current research broadly encompasses belief networks, social information diffusion, and natural language processing. Some of my ongoing projects include (see also [papers](https://rachithaiyappa.github.io/papers/)),
+### Research
+My research broadly encompasses belief networks, social information diffusion, and natural language processing.  
+I ask the question "How do our beliefs influence the way we process and share information in social networks?"   
 
+Some of my ongoing projects include (see also [papers](https://rachithaiyappa.github.io/papers/)),
 - Extracting belief networks from social media data
-- Large Language Models and Stance Detection | [arxiv](https://arxiv.org/abs/2301.02368)
 - Large Language Models and Social Surveys
-- Belief Embeddings
 
 In the recent past, I've worked on 
-- Modelling human belief networks and social contagion with the super cool Drs. [Alessandro Flammini](https://luddy.indiana.edu/contact/profile/?Alessandro_Flammini) and [YY Ahn](https://yongyeol.com/) | [arxiv](https://arxiv.org/abs/2301.02368), _forthcoming in Science Advances_
-- Identifying and characterizing superspreaders of information on Twitter with the [Networks and Agents Network (NaN)](https://cnets.indiana.edu/groups/nan/) and [OsoMe](https://osome.iu.edu/) teams led by [Dr. Filippo Menczer](https://cnets.indiana.edu/fil/) | [arxiv](https://arxiv.org/abs/2301.02368)  
-- Trusting the evaluation of Large Language Models | [TrustNLP](https://aclanthology.org/2023.trustnlp-1.5/)
-- Graph Compression (read embeddings) with [Dr. Filippo Radicchi](https://cgi.luddy.indiana.edu/~filiradi/) and applying this to the science of science.
-- Some bit of machine learning to identify influential nodes in networks.
 
-Between August and December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India where I helped run a foundational course called Principles of Science which I deeply believe in. Teaching is indeed therapeutic! 
+- Modelling human belief networks and social contagion | [Science Advances](https://www.science.org/doi/10.1126/sciadv.adh4439)
+- Trusting the evaluation of Large Language Models | [TrustNLP](https://aclanthology.org/2023.trustnlp-1.5/)
+- Large Language Models and Stance Detection | [arxiv](https://arxiv.org/abs/2301.02368)
+- Belief Embeddings | [arxiv](https://arxiv.org/abs/2408.07237)
+- Identifying and characterizing superspreaders of information on Twitter | [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302201)
+
+### Internships
+In the Summer of 2024, I interned at eBay as Applied Researcher in the Search and Content Science team.  
+In the Summer of 2023, I interned at Fitch Group as a Data Science and NLP intern in the Emerging Tech Team.  
+Visit my [LinkedIn](https://www.linkedin.com/in/rachith-aiyappa/) to learn more about what I did.
+
+## Recent academic past
+Before I started my PhD, between August and December 2020, I was a Teaching Fellow in the Physics Department at Ashoka University, India.  
+I helped run a foundational course called Principles of Science which I deeply believe in.   
+Teaching is indeed therapeutic! 
 
 In July 2019, I graduated with a dual degree, a **B.E (Hons.) in Mechanical Engineering** and an **M.Sc.(Hons.) in Physics** from Birla Institute of Technology and Science - Pilani, India.
 
