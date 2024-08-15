@@ -3,7 +3,13 @@ layout: page
 title: Teaching
 ---
 
-Between August-December 2019, I am at Ashoka University in Sonipat, India as a Teaching Fellow (TF) in the Physics Department. 
+I love teaching. Probably taken after my mum on that front. She's great!
+
+During my degree programs, I have been an instructor for Network Science, Data Visualisation, Collective Interlligence, Performance Analytics, Non-Linear Dynamics and Chaos, and Introduction to Astronomy and Astrophysics. More details about these can be found in my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTxgA2ATP3lLmQiL/view).
+
+## Principles of Science
+
+Between August-December 2019, I was at Ashoka University in Sonipat, India as a Teaching Fellow (TF) in the Physics Department. 
 Principles of Science is a Foundational Course (FC) which is taken up by a diverse set of undergraduate students, mostly in their first or second year.  
 The Physics Department, for the first time since its inception three years ago (the university is quite new...about 5 years old) is offering this course. Prof. Gautam Menon, a statistical physicist by training (yay!) conducts the lecture sessions and Gaurang (a fellow TF) and I conduct 6 discussion sessions (DS, 3 each) on a weekly basis where we dive deeper into the essence of this course. 
 
