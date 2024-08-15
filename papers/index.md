@@ -2,6 +2,10 @@
 layout: page
 title: Papers
 ---
+
+Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTxgA2ATP3lLmQiL/view) for more details.   
+
+
   \* indicates equal contribution.
   
 ### In-Progress 
@@ -21,16 +25,28 @@ title: Papers
 
 ### 2024 
 
+-  [Emergence of simple and complex contagion dynamics from weighted belief networks](https://www.science.org/doi/10.1126/sciadv.adh4439).     
+  **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn  
+   _Science Advances_
+
+ - [Identifying and characterizing superspreaders of low-credibility content on Twitter](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302201).  
+  Matthew R. DeVerna, **Rachith Aiyappa**, Diogo Pacheco, John Bryden, Filippo Menczer  
+  _Plos One_
+
+ - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
+   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Ozgur Can Seckin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
+
+- [Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](https://arxiv.org/abs/2408.07237)  
+  Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak
+
 - [Benchmarking zero-shot stance detection with FlanT5-XXL: Insights from training data, prompting, and decoding strategies into its near-SoTA performance](https://arxiv.org/abs/2403.00236)  
   **Rachith Aiyappa**, Shruthi Senthilmani, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
+  
 ### 2023
 
 - [A multi-platform collection of social media posts about the 2022 U.S. midterm elections](https://ojs.aaai.org/index.php/ICWSM/article/view/22205).   
     **Rachith Aiyappa**,* Matthew R DeVerna,* Manita Pote,* Bao Tran Truong,* Wanying Zhao,* David Axelrod, Aria Pessianzadeh, Zoher Kachwala, Munjung Kim, Ozgur Can Seckin, Minsuk Kim, Sunny Gandhi, Amrutha Manikonda, Francesco Pierri, Filippo Menczer, Kai-Cheng Yang  
-  _International Conference on Web and Social Media_
-
-- [Weighted Belief Networks Unify Simple and Complex Contagion Dynamics](https://arxiv.org/abs/2301.02368).     
-    **Rachith Aiyappa**, Alessandro Flammini, Yong-Yeol Ahn
+  _Proceedings of the Seventeenth International AAAI Conference on Web and Social Media_
     
 - [Can we trust the evaluation on ChatGPT?](https://aclanthology.org/2023.trustnlp-1.5/)     
     **Rachith Aiyappa**, Jisun An, Haewoon Kwak, Yong-Yeol Ahn  
@@ -43,10 +59,3 @@ title: Papers
 - [The Spread of Beliefs in Partially Modularized Communities](https://journals.sagepub.com/doi/10.1177/17456916231198238)  
     Robert L. Goldstone, Marina Dubova, **Rachith Aiyappa**, Andrew Edinger  
   _Perspectives on Psychological Science_
-### 2022
-
-- [Identification and characterization of misinformation superspreaders on social media](https://arxiv.org/abs/2207.09524).  
-    Matthew R. DeVerna, **Rachith Aiyappa**, Diogo Pacheco, John Bryden, Filippo Menczer
-    
-
-    
