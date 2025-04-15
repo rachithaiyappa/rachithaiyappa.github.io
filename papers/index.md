@@ -22,10 +22,14 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
    **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
 
 - [Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](https://arxiv.org/abs/2408.07237)  
-  Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak
+  Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak  
+  _Nature Human Behavior_
 
 - [Benchmarking zero-shot stance detection with FlanT5-XXL: Insights from training data, prompting, and decoding strategies into its near-SoTA performance](https://arxiv.org/abs/2403.00236)  
   **Rachith Aiyappa**, Shruthi Senthilmani, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
+
+- [Information diffusion assumptions can distort our understanding of social network dynamics](https://arxiv.org/pdf/2410.21554)  
+  Matthew R. DeVerna,  Francesco Pierri, **Rachith Aiyappa**, Diogo Pacheco, John Bryden, Filippo Menczer  
   
 ### 2023
 
@@ -47,15 +51,13 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 
 ### Under preparation
 
-- Extracting Belief Networks from Social Media Data using Large Language Models.  
-  _with Jisun An, Haewoon Kwak, Alessandro Flaminni, Filippo Menczer, and Yong-Yeol Ahn_
-- Large Language Models and Social Surveys  
+- Emergence of Belief Associations  
+  _with Özgür Can Seçkin,* Alessandro Flaminni, and Yong-Yeol Ahn_
+- Extracting Belief Networks from Social Media Data using Large Language Models  
+  _with Jisun An, Haewoon Kwak, Alessandro Flaminni, Filippo Menczer, and Yong-Yeol Ahn_ 
+- Large Language Models to answer Social Surveys  
   _with Junsol Kim, Marios Papachristou, Yong-Yeol Ahn, and Byungkyu Lee_
-- Belief Embeddings  
-  _with **Bwung-Hwee Lee**, Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_
-- Evaluation biases in link prediction algorithm.  
-  _with **Sadamori Kojaku**, Munjung Kim, Özgür Can Seçkin, and Yong-Yeol Ahn_
-- Amplifiers of Misinformation on Social Media.  
-  _with **Matthew R DeVerna**, Francesco Pierri, Diogo Pacheco, John Bryden, and Filippo Menczer_
 - Multi-Platform Analysis of US 2020 midterm elections.  
   _with **Bao Tran Truong**, Özgür Can Seçkin, Sangyeon Kim, Matthew R DeVerna, and Kai-Cheng Yang_
+- Large Language Models to predict beliefs  
+_with **Joseph Malone**, Bwung-Hwee Lee, Jisun An, Haewoon Kwak, and Yong-Yeol Ahn_ 
