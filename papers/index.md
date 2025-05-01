@@ -12,7 +12,7 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 
  - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
    **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku  
-   _International Conference on Machine Learning_
+   _International Conference on Machine Learning (ICML)_
 
 - [A semantic embedding space based on Large Language Models for modeling human beliefs](https://arxiv.org/abs/2408.07237)  
   Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak  
