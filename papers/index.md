@@ -8,6 +8,16 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 
   \* indicates equal contribution.
 
+### 2025
+
+ - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
+   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
+   _International Conference on Machine Learning_
+
+- [A semantic embedding space based on Large Language Models for modeling human beliefs](https://arxiv.org/abs/2408.07237)  
+  Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak  
+  _Nature Human Behavior_
+
 ### 2024 
 
 -  [Emergence of simple and complex contagion dynamics from weighted belief networks](https://www.science.org/doi/10.1126/sciadv.adh4439).     
@@ -17,13 +27,6 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
  - [Identifying and characterizing superspreaders of low-credibility content on Twitter](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302201).  
   Matthew R. DeVerna, **Rachith Aiyappa**, Diogo Pacheco, John Bryden, Filippo Menczer  
   _Plos One_
-
- - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
-   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
-
-- [Neural embedding of beliefs reveals the role of relative dissonance in human decision-making](https://arxiv.org/abs/2408.07237)  
-  Bwung-Hwee Lee, **Rachith Aiyappa**, Yong-Yeol Ahn, Jisun An, and Haewoon Kwak  
-  _Nature Human Behavior_
 
 - [Benchmarking zero-shot stance detection with FlanT5-XXL: Insights from training data, prompting, and decoding strategies into its near-SoTA performance](https://arxiv.org/abs/2403.00236)  
   **Rachith Aiyappa**, Shruthi Senthilmani, Jisun An, Haewoon Kwak, Yong-Yeol Ahn
