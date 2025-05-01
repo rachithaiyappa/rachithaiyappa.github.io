@@ -11,7 +11,7 @@ Please see my [academic CV](https://drive.google.com/file/d/1YeRBsC_ioLKY0DyPmTx
 ### 2025
 
  - [Implicit degree bias in the link prediction task](https://arxiv.org/pdf/2405.14985).  
-   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku
+   **Rachith Aiyappa**, Xin Wang, Munjung Kim, Özgür Can Seçkin, Jisung Yoon, Yong-Yeol Ahn, Sadamori Kojaku  
    _International Conference on Machine Learning_
 
 - [A semantic embedding space based on Large Language Models for modeling human beliefs](https://arxiv.org/abs/2408.07237)  
